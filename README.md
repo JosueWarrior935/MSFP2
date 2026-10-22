@@ -12,7 +12,7 @@ El caso de estudio representa el **sistema arterial** mediante el **modelo Windk
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Programa:** Ingeniería Biomédica  
-**Estudiante:** Josue Raul Guerrero Peñaloza · 24210583 · l24210583@tectijuana.edu.mx
+**Estudiante:** Josue Raul Guerrero Peñaloza · 24210583 · L24210583@tijuana.tecnm.mx
 
 **Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
