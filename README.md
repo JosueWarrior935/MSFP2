@@ -488,7 +488,7 @@ Organización **sugerida** para la entrega:
 ├── Analisis_Matematico_P2.pdf         # Desarrollo analítico a mano (07/10/2026)
 ├── sistema2020_470P2_2.slx            # Modelo Simulink
 ├── signal.xlsx                        # Entrada Pa(t) exportada desde Simulink
-├── esquema_windkessel.jpg             # Esquema ilustrado de los elementos del modelo
+├── Biorender.jpg                      # Esquema ilustrado de los elementos del modelo
 ├── pid_hipotenso.jpg                  # Captura de la sintonización del PID (hipotenso)
 ├── pid_hipertenso.jpg                 # Captura de la sintonización del PID (hipertenso)
 ├── Individuos_matlab.pdf
